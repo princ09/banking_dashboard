@@ -1,0 +1,253 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F8F4A6;
+}
+
+main {
+  padding: 10px;
+}
+
+nav {
+  width: 100%;
+  ;
+  height: 80px;
+  background: #687781;
+}
+
+.logo {
+  position: relative;
+  top: 8px;
+  left: 9px;
+  width: 150px;
+  height: 65;
+  display: inline-block;
+
+}
+
+.right-nav {
+  padding: 12px;
+}
+
+.log {
+  position: relative;
+  top: 18px;
+  ;
+  padding: 0;
+  margin: 0;
+  line-height: 0;
+  color: white;
+  font-weight: 300;
+  float: right;
+}
+
+.log p {
+  padding: 0;
+  margin: 0;
+  font-weight: 300;
+}
+
+.menu_icons {
+  position: relative;
+  top: 17px;
+
+}
+
+.menu_icons i {
+  width: 24px;
+  height: 24px;
+  color: white;
+}
+
+.search-box {
+  padding-left: 0;
+  margin: 0;
+  padding-bottom: 5px;
+  width: 100%;
+}
+
+form {
+  outline: 0;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  padding: 0;
+}
+
+form>.textbox {
+  outline: 0;
+  height: 42px;
+  width: 90%;
+  line-height: 42px;
+  padding: 0 16px;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #212121;
+  border: 0;
+  float: left;
+  -webkit-border-radius: 4px 0 0 4px;
+  border-radius: 4px 0 0 4px;
+}
+
+form>.textbox:focus {
+  outline: 0;
+  background-color: #FFF;
+}
+
+form>.button {
+  outline: 0;
+  background: none;
+  background-color: #687781;
+  float: left;
+  height: 42px;
+  width: 10%;
+  text-align: center;
+  line-height: 42px;
+  border: 0;
+  color: #FFF;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 16px;
+  text-rendering: auto;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -webkit-transition: background-color .4s ease;
+  transition: background-color .4s ease;
+  -webkit-border-radius: 0 4px 4px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+form>.button:hover {
+  background-color: #3943B7;
+}
+
+.trans {
+  background: #063bed;
+}
+
+form>.trans:hover {
+  background-color: #3943B7;
+}
+
+.cm {
+  background: #3E92CC;
+}
+
+form>.cm:hover {
+  background-color: #3943B7;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+
+  color: white;
+  background-color: #063bed;
+}
+
+.cust_details {
+  box-shadow: 2px 5px rgba(0, 0, 0, 0.12);
+}
+
+.flex-container {
+  padding16;
+}
+
+
+#style-2::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
+
+#style-2::-webkit-scrollbar {
+  width: 12px;
+  background-color: #F5F5F5;
+}
+
+#style-2::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+  background-color: #063bed;
+}
+
+#style-3::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar {
+  width: 12px;
+  background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+  background-color: #687781;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.form-row {
+  display: flex;
+  justify-content: flex-start;
+  padding: .2em;
+}
+
+.form-row>label {
+
+  flex: 1;
+}
+
+.form-row>input,
+.form-row>select {
+  color: black;
+  flex: 2;
+}
+
+option {
+  background: #063bed;
+  color: white;
+
+}
+
+option:hover {
+  background: white;
+  color: #063bed;
+}
+
+.form-button {
+  outline: 0;
+  background: none;
+  background-color: #063bed;
+
+  height: 42px;
+
+  text-align: center;
+  line-height: 42px;
+  border: 0;
+  color: #FFF;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 16px;
+  text-rendering: auto;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -webkit-transition: background-color .4s ease;
+  transition: background-color .4s ease;
+  -webkit-border-radius: 0 4px 4px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.form-button:hover {
+  background-color: #3943B7;
+}

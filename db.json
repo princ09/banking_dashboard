@@ -1,0 +1,873 @@
+{
+    "customer": [
+        {
+            "id": 0,
+            "name": "__________ _______",
+            "t_branch": "_______",
+            "margin":"___________",
+            "transactions":[
+                {
+                    "t_no":0,
+                    "curr_pair":"__________",
+                    "cust_id":0,
+                    "rate":0,
+                    "fc_amt":0
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+            
+        },
+        {
+            "id": 1,
+            "name": "Itachi Uchiha",
+            "t_branch": "Shippuuden",
+            "margin":"3pps",
+            "transactions":[
+                {
+                    "t_no":566546,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":556564,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":7887545,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":457455,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":586863,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+            
+        },
+        {
+            "id": 2,
+            "name": "Ichigo Kurosaki",
+            "t_branch": "Bleach",
+            "margin":"4pps",
+            "transactions":[
+                {
+                    "t_no":254322,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":78687632,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":78565,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":54444,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        },
+        {
+            "id": 3,
+            "name": "Ken Kaneki",
+            "t_branch": "Tokyo Ghoul",
+            "margin":"8pps",
+            "transactions":[
+                {
+                    "t_no":568678575,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":7545725,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":757545,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":555775,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":7587585,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                    {
+                        "buy":"EUR",
+                        "sell":"USD"
+                    },
+                    {
+                        "buy":"USD",
+                        "sell":"USD"
+                    },{
+                        "buy":"USD",
+                        "sell":"USD"
+                    },{
+                        "buy":"AUD",
+                        "sell":"USD"
+                    },{
+                        "buy":"NZD",
+                        "sell":"USD"
+                    },{
+                        "buy":"EUR",
+                        "sell":"NZD"
+                    },{
+                        "buy":"USD",
+                        "sell":"CHF"
+                    },{
+                        "buy":"EUR",
+                        "sell":"USD"
+                    }
+                
+              ]
+                
+        },
+        {
+            "id": 4,
+            "name": "Levi Ackerman",
+            "t_branch": "Shingeki no Kyojin",
+            "margin":"3pps",
+            "transactions":[
+                {
+                    "t_no":757575757,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":4445757,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":5757,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":5775588,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":3655585,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":5464567,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":4565864,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        },
+        {
+            "id": 5,
+            "name": "Hei",
+            "t_branch": "Darker than Black",
+            "margin":"56pps",
+            "transactions":[
+                {
+                    "t_no":36543656,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":5436456748,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":867863,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":3543654,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":786785678,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        },
+        {
+            "id": 6,
+            "name": "Alucard",
+            "t_branch": "Hellsing",
+            "margin":"3pps",
+            "transactions":[
+                {
+                    "t_no":68756546,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":6467576,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":546875678,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":8756785,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":546478678,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        },
+        {
+            "id": 7,
+            "name": "Itachi Uchiha",
+            "t_branch": "Shippuuden",
+            "margin":"3pps",
+            "transactions":[
+                {
+                    "t_no":65785685678,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":87568778,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":7857857878,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":5758787,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":97878,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        },
+        {
+            "id": 8,
+            "name": "Roy Mustang",
+            "t_branch": "Full Metal",
+            "margin":"8pps",
+            "transactions":[
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        },
+        {
+            "id": 9,
+            "name": "Guts",
+            "t_branch": "Beserk",
+            "margin":"3pps",
+            "transactions":[
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        },
+        {
+            "id": 10,
+            "name": "Tatsuya Shiba",
+            "t_branch": "Shippuuden",
+            "margin":"3pps",
+            "transactions":[
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                },
+                {
+                    "t_no":1667446,
+                    "curr_pair":"USD/INR",
+                    "cust_id":144464,
+                    "rate":6,
+                    "fc_amt":584545
+
+                }
+
+            ],
+            "curr_pair_list":[
+                {
+                    "buy":"EUR",
+                    "sell":"USD"
+                },
+                {
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"USD",
+                    "sell":"USD"
+                },{
+                    "buy":"AUD",
+                    "sell":"USD"
+                },{
+                    "buy":"NZD",
+                    "sell":"USD"
+                },{
+                    "buy":"EUR",
+                    "sell":"NZD"
+                },{
+                    "buy":"USD",
+                    "sell":"CHF"
+                },{
+                    "buy":"EUR",
+                    "sell":"USD"
+                }
+            
+          ]
+                
+        }
+    ],
+    "rm": [
+        {
+            "id": 0,
+            "name": "____________",
+            "num": 0
+        },
+        {
+            "id": 1,
+            "name": "Hikigaya Hachiman",
+            "num": 8692981505
+        },
+        {
+            "id": 2,
+            "name": "Rajkumar Gupta",
+            "num": 9769255410
+        },
+        {
+            "id": 3,
+            "name": "Shraddha Bundge",
+            "num": 8291435669
+        },
+        {
+            "id": 4,
+            "name": "Ashish Gupta",
+            "num": 996742854
+        },
+        {
+            "id": 5,
+            "name": "Sneha  vishwakarma",
+            "num": 7506434696
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
